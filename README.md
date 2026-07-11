@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on: **[project/technology name]**
 - 🌱 I'm currently learning: **[skill or tech you're picking up]**
 - 💬 Ask me about: **[a couple of topics you know well]**
-- 📫 How to reach me: **[email or LinkedIn]**
+- 📫 How to reach me: ** ssamrajbhattarai@gmail.com**
 - ⚡ Fun fact: **[something interesting about you]**
 
 ---

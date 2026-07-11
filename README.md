@@ -1,55 +1,53 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Initializing+System...;Access+Granted+✓;Hello,+I'm+Samrat;Aspiring+Software+Engineer;Python+%7C+Java+%7C+Web+Developer;Welcome+to+my+GitHub+Profile!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;ACCESS+GRANTED+✓;WELCOME+SAMRAT;PYTHON+DEVELOPER;JAVA+ENTHUSIAST;WEB+DEVELOPMENT+LEARNER" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=SAMRAT&fontColor=00FF41&fontSize=70&animation=fadeIn&fontAlignY=38&color=0:000000,50:001a00,100:00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00FF41&height=220&section=header&text=SAMRAT&fontSize=60&fontColor=00FF41&animation=fadeIn"/>
 
 </div>
 
 ---
 
-```console
+```text
 ┌────────────────────────────────────────────────────────────┐
-│                 SYSTEM BOOT SUCCESSFUL                     │
+│               CYBER COMMAND CENTER v1.0                    │
 ├────────────────────────────────────────────────────────────┤
 │ USER      : Samrat                                         │
+│ STATUS    : ONLINE 🟢                                      │
 │ ROLE      : Aspiring Software Engineer                     │
-│ STATUS    : Online 🟢                                      │
 │ LOCATION  : Nepal 🇳🇵                                      │
-│ MODE      : Learning & Building                            │
-│ SECURITY  : ACTIVE                                         │
+│ FOCUS     : Python • Java • Web Development                │
+│ SECURITY  : ACCESS GRANTED                                 │
 └────────────────────────────────────────────────────────────┘
 ```
 
-# > whoami
+## > whoami
 
 ```python
-class Samrat:
+class Developer:
 
     def __init__(self):
         self.name = "Samrat"
         self.role = "Aspiring Software Engineer"
-        self.language = [
+
+        self.languages = [
             "Python",
             "Java",
             "HTML",
             "CSS"
         ]
 
-        self.currently_learning = [
+        self.learning = [
+            "Git",
+            "GitHub",
             "Data Structures",
             "Algorithms",
-            "Git",
             "Web Development"
         ]
 
         self.goal = "Become a Professional Software Engineer"
 
-    def __str__(self):
-        return "Code • Learn • Build • Improve"
-
-me = Samrat()
-print(me)
+me = Developer()
 ```
 
 ---
@@ -78,35 +76,39 @@ print(me)
 
 ---
 
-# ⚡ Terminal
+## ⚡ Terminal
 
 ```bash
-$ whoami
+root@samrat:~$ whoami
+
 Samrat
 
-$ occupation
-Aspiring Software Engineer
+root@samrat:~$ skills
 
-$ focus
 Python
 Java
 HTML
 CSS
+Git
+GitHub
 
-$ current_status
-Learning...
-Building...
-Growing...
+root@samrat:~$ status
 
-$ mission
-Become a Full Stack Developer
+🟢 Learning...
+🟢 Building...
+🟢 Growing...
+
+root@samrat:~$ mission
+
+Become Software Engineer
+Master Python
+Build Amazing Projects
 Contribute to Open Source
-Build Real World Projects
 ```
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -116,43 +118,7 @@ Build Real World Projects
 
 ---
 
-# 📚 Currently Learning
-
-```text
-██████████████████░░░░░░░  Python               80%
-
-████████████████░░░░░░░░░  Java                 70%
-
-██████████████░░░░░░░░░░░  HTML & CSS           75%
-
-████████████░░░░░░░░░░░░░  Git & GitHub         60%
-
-██████████░░░░░░░░░░░░░░░  DSA                  50%
-```
-
----
-
-# 🚀 Current Mission
-
-```yaml
-Mission:
-  Learn:
-    - Python
-    - Java
-    - Web Development
-    - Data Structures
-    - Algorithms
-
-Goals:
-    - Build Amazing Projects
-    - Become Software Engineer
-    - Master Python
-    - Learn Full Stack Development
-```
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -162,98 +128,28 @@ Goals:
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=samrat046s&theme=chartreuse-dark&hide_border=true"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=samrat046s&theme=matrix&no-frame=true&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat046s&theme=github-compact&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<p align="center">
+> Enable this with a GitHub Action.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat046s&theme=github-compact&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/samrat046s/samrat046s/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The snake animation requires a GitHub Action in your profile repository. Until you set it up, this image won't appear.
-
----
-
-# 📊 Profile
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=samrat046s&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/samrat046s?style=for-the-badge&color=00ff41&labelColor=000000"/>
-
-<img src="https://img.shields.io/github/stars/samrat046s?style=for-the-badge&color=00ff41&labelColor=000000"/>
-
-</p>
-
----
-
-# ⚙️ System Status
-
-```text
-█████████████████████████████████
-
-CPU Usage         ███████████░░░░░ 75%
-
-Learning          ████████████████ 100%
-
-Coffee            ████████████░░░░ 80%
-
-Motivation        ████████████████ 100%
-
-Bug Fixing        ██████████░░░░░░ 65%
-
-Coding            ████████████████ 100%
-
-█████████████████████████████████
+```md
+![Snake animation](https://raw.githubusercontent.com/samrat046s/samrat046s/output/github-contribution-grid-snake-dark.svg)
 ```
 
 ---
 
-# 💬 Favorite Quote
-
-> **"Every expert was once a beginner. Keep building, keep learning, and never stop coding."**
-
----
-
-<div align="center">
-
-### ⚡ SYSTEM STATUS : ONLINE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile!;See+you+in+the+next+commit...;Happy+Coding+🚀"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer"/>
-
-</div>
+> **"Every expert was once a beginner. Keep learning, keep building, and never stop coding."** 🚀

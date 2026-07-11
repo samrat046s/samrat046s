@@ -465,23 +465,6 @@ Expected Graduation:
 
 ---
 
-# 📜 Certifications
-
-```bash
-root@samrat:~$ ls certificates
-```
-
-| Certificate | Platform |
-|-------------|----------|
-| Python Essentials | Cisco Networking Academy |
-| Responsive Web Design | freeCodeCamp |
-| Git & GitHub | Coursera |
-| Java Programming Fundamentals | Great Learning Academy |
-
-> 📝 Replace these with your actual certificates as you earn them.
-
----
-
 # 💼 Career Objective
 
 ```text
@@ -581,5 +564,175 @@ Status         : Learning & Building 🚀
 # 💡 Favorite Quote
 
 > **"Every expert was once a beginner. Keep learning, keep building, and never stop improving."**
+# 📬 Contact Terminal
 
+```bash
+root@samrat:~$ contact --info
+```
+
+```yaml
+Name:
+  Samrat Bhattarai
+
+Email:
+  ssamrajbhattarai@gmail.com
+
+Location:
+  Kathmandu, Nepal
+
+Education:
+  Bachelor in Information Technology (BIT)
+
+College:
+  Texas College of Management & IT
+
+Expected Graduation:
+  2028
+```
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
+
+<a href="mailto:ssamrajbhattarai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+</a>
+
+<a href="https://github.com/samrat046s">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samrat-bhattarai-1208a02b7/">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="https://www.instagram.com/_samrat_bhattarai_/">
+<img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=8A2BE2"/>
+</a>
+
+<a href="https://www.facebook.com/samrat.bhattarai.492416">
+<img src="https://img.shields.io/badge/Facebook-050505?style=for-the-badge&logo=facebook&logoColor=00E5FF"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Terminal Session
+
+```bash
+root@samrat:~$ pwd
+/home/samrat
+
+root@samrat:~$ ls
+
+Python/
+Java/
+React/
+Portfolio/
+Projects/
+Learning/
+
+root@samrat:~$ echo $MISSION
+
+Become a Professional Software Engineer
+
+root@samrat:~$ echo $STATUS
+
+Learning...
+Building...
+Improving...
+
+root@samrat:~$ exit
+
+logout
+
+Connection Closed...
+
+See you in the next commit 🚀
+```
+
+---
+
+# 💚 Support My Journey
+
+If you like my projects, consider giving them a ⭐.
+
+<p align="center">
+
+<a href="https://github.com/samrat046s?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-050505?style=for-the-badge&logo=github&logoColor=00FF41"/>
+</a>
+
+<a href="https://github.com/samrat046s?tab=followers">
+<img src="https://img.shields.io/badge/Follow%20Me-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+</p>
+
+---
+
+# 📊 Developer Philosophy
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Fail();
+
+    Debug();
+
+    Improve();
+
+    Repeat();
+
+}
+```
+
+---
+
+# ⚡ Random Dev Quote
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+
+— Harold Abelson
+
+---
+
+# 🖥️ System Shutdown
+
+```bash
+root@samrat:~$ shutdown now
+
+Stopping portfolio.service... OK
+Saving projects... OK
+Closing terminal... OK
+
+████████████████████████████████████
+
+Session Ended Successfully.
+
+Thank you for visiting!
+
+████████████████████████████████████
+```
+
+---
+
+<div align="center">
+
+## 🚀 Happy Coding!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Keep+Learning...;Keep+Building...;See+you+in+the+next+commit!"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B6E2E,100:050505&height=120&section=footer"/>
+
+</div>
 ---

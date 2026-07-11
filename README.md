@@ -397,3 +397,189 @@ Sleep          ████████
 ```
 
 ---
+# 📊 GitHub Analytics
+
+```bash
+root@samrat:~$ github status
+```
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samrat046s&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat046s&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=samrat046s&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrat046s&theme=github-compact&bg_color=050505&color=00E5FF&line=00FF41&point=E8E8E8&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Profile Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=samrat046s&theme=matrix&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+```bash
+root@samrat:~$ cat education.txt
+```
+
+```yaml
+College:
+  Texas College of Management & IT
+
+Degree:
+  Bachelor in Information Technology (BIT)
+
+Location:
+  Kathmandu, Nepal
+
+Expected Graduation:
+  2028
+```
+
+---
+
+# 📜 Certifications
+
+```bash
+root@samrat:~$ ls certificates
+```
+
+| Certificate | Platform |
+|-------------|----------|
+| Python Essentials | Cisco Networking Academy |
+| Responsive Web Design | freeCodeCamp |
+| Git & GitHub | Coursera |
+| Java Programming Fundamentals | Great Learning Academy |
+
+> 📝 Replace these with your actual certificates as you earn them.
+
+---
+
+# 💼 Career Objective
+
+```text
+Seeking internship and entry-level software development opportunities
+where I can apply my programming knowledge, improve my technical
+skills, contribute to real-world projects, and grow into a
+professional Software Engineer.
+```
+
+---
+
+# 🧩 Problem Solving Mindset
+
+```text
+Think ➜ Plan ➜ Code ➜ Test ➜ Debug ➜ Improve ➜ Repeat
+```
+
+---
+
+# 📅 Developer Timeline
+
+```text
+2024  █████ Started Programming
+
+2025  █████ Learned Python, Java, HTML & CSS
+
+2026  █████ Building Projects with React & GitHub
+
+2027  █████ Open Source Contributions
+
+2028  █████ Graduate BIT & Begin Software Engineering Career
+```
+
+---
+
+# 🎯 Current Objectives
+
+- ✅ Build high-quality software projects
+- ✅ Improve Python and Java skills
+- ✅ Learn Full Stack Development
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Contribute to Open Source
+- ✅ Prepare for internships
+- ✅ Grow my GitHub portfolio
+
+---
+
+# 🌍 Languages
+
+```yaml
+Nepali:
+  Native
+
+English:
+  Professional Working Proficiency
+
+Hindi:
+  Conversational
+```
+
+---
+
+# 📈 Profile Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=samrat046s&label=Profile%20Views&color=00FF41&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/samrat046s?style=for-the-badge&label=Followers"/>
+
+<img src="https://img.shields.io/github/stars/samrat046s?style=for-the-badge&label=Stars"/>
+
+</p>
+
+---
+
+# ⚡ System Information
+
+```bash
+root@samrat:~$ neofetch
+```
+
+```text
+Developer      : Samrat Bhattarai
+Role           : Aspiring Software Engineer
+OS             : Windows
+Editor         : VS Code
+Languages      : Python, Java, HTML, CSS, JavaScript
+Framework      : React.js
+Version Control: Git & GitHub
+Location       : Kathmandu, Nepal
+Status         : Learning & Building 🚀
+```
+
+---
+
+# 💡 Favorite Quote
+
+> **"Every expert was once a beginner. Keep learning, keep building, and never stop improving."**
+
+---

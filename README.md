@@ -153,3 +153,247 @@ Motivation       ██████████████████ 100%
 > "Every expert was once a beginner. Every line of code brings me one step closer to my dream."
 
 ---
+
+# 💻 Tech Arsenal
+
+```bash
+root@samrat:~$ ls ./skills
+```
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,react,git,github,vscode,figma&theme=dark"/>
+
+</p>
+
+---
+
+# ⚙️ Programming Languages
+
+```text
+Languages/
+│
+├── 🐍 Python
+├── ☕ Java
+├── 🌐 HTML5
+├── 🎨 CSS3
+├── ⚡ JavaScript
+└── ⚛️ React (Learning)
+```
+
+---
+
+# 🛠 Development Tools
+
+```text
+Tools/
+│
+├── Git
+├── GitHub
+├── VS Code
+├── Figma
+└── Windows
+```
+
+---
+
+# 📚 Current Learning Progress
+
+```bash
+root@samrat:~$ cat learning_progress.log
+```
+
+| Technology | Progress |
+|------------|----------|
+| 🐍 Python | ████████████████████ 80% |
+| ☕ Java | ██████████████████░░ 70% |
+| 🌐 HTML5 | ████████████████████ 90% |
+| 🎨 CSS3 | ███████████████████░ 85% |
+| ⚡ JavaScript | ███████████████░░░░ 65% |
+| ⚛️ React.js | ██████████░░░░░░░░░ 50% |
+| 🌿 Git & GitHub | ████████████████░░░ 75% |
+| 🧠 Data Structures | ███████████░░░░░░░░ 45% |
+
+---
+
+# 🧠 Core Skills
+
+```yaml
+Programming:
+  - Python
+  - Java
+
+Frontend:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - React
+
+Version Control:
+  - Git
+  - GitHub
+
+Soft Skills:
+  - Problem Solving
+  - Teamwork
+  - Communication
+  - Fast Learner
+  - Critical Thinking
+```
+
+---
+
+# 🚀 Featured Projects
+
+```bash
+root@samrat:~$ ls ./projects --featured
+```
+
+## 🏋️ G Fitness
+
+> React.js Gym Accessories E-Commerce Website
+
+### Features
+
+- Responsive Design
+- Product Catalog
+- Modern UI
+- React Components
+- Fast Performance
+
+**Tech Stack**
+
+```text
+React.js
+JavaScript
+HTML5
+CSS3
+```
+
+---
+
+## 🎮 Flappy Bird Prototype
+
+Python game inspired by Flappy Bird.
+
+### Features
+
+- Collision Detection
+- Score Counter
+- Game Physics
+- Keyboard Controls
+
+**Tech Stack**
+
+```text
+Python
+```
+
+---
+
+## 🌐 Responsive Websites
+
+Collection of modern responsive websites.
+
+### Features
+
+- Mobile Friendly
+- Responsive Layout
+- Clean UI
+- Fast Loading
+
+**Tech Stack**
+
+```text
+HTML5
+CSS3
+JavaScript
+```
+
+---
+
+## 👨‍💻 Personal Portfolio
+
+Modern personal portfolio website.
+
+### Features
+
+- Responsive
+- Dark Mode
+- Modern Design
+- Contact Section
+
+**Tech Stack**
+
+```text
+HTML
+CSS
+JavaScript
+React
+```
+
+---
+
+# 🎯 2026 Mission
+
+```bash
+root@samrat:~$ cat goals.txt
+```
+
+```text
+[✓] Master Python
+
+[✓] Improve Java
+
+[✓] Learn React.js
+
+[✓] Build Real Projects
+
+[✓] Learn Full Stack Development
+
+[✓] Contribute to Open Source
+
+[✓] Strengthen DSA
+
+[✓] Become Software Engineer
+```
+
+---
+
+# 📂 Current Workspace
+
+```text
+samrat/
+
+├── Python Projects
+│
+├── React Projects
+│
+├── Portfolio Website
+│
+├── G Fitness
+│
+├── Flappy Bird
+│
+└── Learning DSA
+```
+
+---
+
+# ☕ Daily Routine
+
+```text
+Wake Up        ██████████
+
+Learn          ███████████████████
+
+Code           ███████████████████
+
+Debug          ██████████████
+
+Coffee         █████████████
+
+Sleep          ████████
+```
+
+---

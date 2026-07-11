@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B6E2E,100:050505&height=210&section=header&text=SAMRAT%20BHATTARAI&fontSize=46&fontColor=00FF41&fontAlignY=38&desc=root@samrat:~$%20whoami&descAlignY=58&descSize=18&descColor=00E5FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B6E2E,100:050505&height=200&section=header&text=SAMRAT%20BHATTARAI&fontSize=44&fontColor=00FF41&fontAlignY=36&desc=root@samrat:~$%20whoami&descAlignY=56&descSize=16&descColor=00E5FF&animation=twinkling" width="100%"/>
 
-<a href="https://github.com/samrat046s">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Aspiring+Python+Developer;Java+Enthusiast;Web+Development+Learner;Turning+Ideas+Into+Code..." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=Aspiring+Python+Developer;Java+Enthusiast;Web+Development+Learner;Turning+Ideas+Into+Code..." height="45" alt="Typing SVG"/>
 
 </div>
 
 <br>
 
-```bash
-root@samrat:~$ cat about.txt
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&height=30&lines=root@samrat:~%24+cat+about.txt" height="30" alt="cat about.txt"/>
 
 ```yaml
 > Passionate about programming, problem-solving, and building practical projects.
@@ -22,7 +18,7 @@ root@samrat:~$ cat about.txt
 
 <br>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%9A%80+About+Me" height="35" alt="About Me"/>
 
 ```
 🔭  Currently working on   : Python projects & beginner-friendly web applications
@@ -54,7 +50,7 @@ root@samrat:~$ cat about.txt
 
 <br>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%9B%A0%EF%B8%8F+Tech+Stack" height="35" alt="Tech Stack"/>
 
 ```bash
 root@samrat:~$ ls ./skills/languages
@@ -77,7 +73,7 @@ root@samrat:~$ ls ./skills/tools
 
 <br>
 
-## 📚 Currently Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%93%9A+Currently+Learning" height="35" alt="Currently Learning"/>
 
 <table>
 <tr>
@@ -101,7 +97,7 @@ root@samrat:~$ ls ./skills/tools
 
 <br>
 
-## 📌 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%93%8C+Featured+Projects" height="35" alt="Featured Projects"/>
 
 ```bash
 root@samrat:~$ ls ./projects --sort=featured
@@ -128,7 +124,7 @@ Creating responsive websites using HTML and CSS.
 
 <br>
 
-## 🎯 2026 Goals
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%8E%AF+2026+Goals" height="35" alt="2026 Goals"/>
 
 - [x] Master Python Programming
 - [ ] Improve Java Development Skills
@@ -140,7 +136,7 @@ Creating responsive websites using HTML and CSS.
 
 <br>
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%93%8A+GitHub+Stats" height="35" alt="GitHub Stats"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samrat046s&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&icon_color=00E5FF&text_color=E8E8E8&ring_color=00FF41" height="170"/>
@@ -157,7 +153,17 @@ Creating responsive websites using HTML and CSS.
 
 <br>
 
-## 📈 Profile Stats
+### 🐍 Live Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samrat046s/samrat046s/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+> This one is a real animated snake that eats through your contribution graph — it needs a one-time setup (instructions below).
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%23%23+%F0%9F%93%88+Profile+Stats" height="35" alt="Profile Stats"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samrat046s&label=Profile%20Views&color=00FF41&style=for-the-badge&labelColor=050505"/>
@@ -174,6 +180,6 @@ Creating responsive websites using HTML and CSS.
 
 ⭐ **Thanks for visiting my profile — if you like my work, star my repositories.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B6E2E,100:050505&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B6E2E,100:050505&height=90&section=footer&animation=twinkling" width="100%"/>
 
 </div>
